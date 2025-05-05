@@ -1,0 +1,6 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated screenshots directory (hum sirf code track karna chahte hain, generated images nahi)
+screenshots/
